@@ -92,7 +92,7 @@ const Navigation: React.FC = () => {
                 Getting Here
               </Link>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="https://www.myregistry.com/wedding-registry/tiffany-shimizu-and-andre-shotwell-mississauga-on/4958140"
                 target="_blank"
@@ -101,7 +101,7 @@ const Navigation: React.FC = () => {
               >
                 Our Registry
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 href="https://www.gohawaii.com/experiences"
