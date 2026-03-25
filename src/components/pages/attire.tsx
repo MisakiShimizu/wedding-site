@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+import { motion } from "framer-motion";
 import {
   attire1,
   attire2,
@@ -6,8 +6,8 @@ import {
   attire4,
   attire5,
   attire6,
-} from '../../assets';
-import '../../styles/styles.css';
+} from "../../assets";
+import "../../styles/styles.css";
 
 const Attire = () => {
   return (
@@ -37,8 +37,8 @@ const Attire = () => {
         >
           <p>
             We suggest guests to wear formal for the occasion. We kindly request
-            for our guests to not wear white. Please see the images below for
-            inspiration.
+            for our guests to not wear white or ivory. Please see the images
+            below for inspiration.
           </p>
         </motion.div>
 
